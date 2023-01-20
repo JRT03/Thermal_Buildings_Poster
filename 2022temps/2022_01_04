@@ -1,0 +1,8 @@
+# DTG Weather on Tuesday 04 January 2022.
+#
+# Data are immediate at "Time" except wind speed (average since previous "Time")
+# and wind direction (most frequent since previous "Time".)  Sun and rain values
+# are cumulative from "Start".  MxWSpd gives max wind speed since previous "Time".
+#
+#Time	Temp 	Humid	DewPt	Press	WindSp	WindDr	Sun  	Rain	Start	MxWSpd
+#    	deg C	%    	deg C	mBar 	knots 	      	hours	mm  	     	knots 
