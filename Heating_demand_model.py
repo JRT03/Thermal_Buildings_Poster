@@ -1,15 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-#SAMPLING DATES
-#Janurary 31st(1-2), 6th(3-6), 8th(7-10), 13th(11,15), 18th(16-20), 23rd(21-25), 28th(26-31) January is non standard as there is some data missing 
-
-#Febuary - 3rd(1-5), 8th(6-10), 13th(11-15), 18th(16-20), 23rd(21-25), 28th(26-28) 
-
-#30 day month - 3rd(1-5), 8th(6-10), 13th(11-15), 18th(16-20), 23rd(21-25), 28th(26-30) 
-
-#31 day month - 3rd(1-5), 8th(6-10), 13th(11-15), 18th(16-20), 23rd(21-25), 28th(26-31)
-
 #DAY SAMPLING
 #15min (00:00 - 00:15), 30min(00:15-45:00)...30min....., 15min (23:45-23:59)
 
